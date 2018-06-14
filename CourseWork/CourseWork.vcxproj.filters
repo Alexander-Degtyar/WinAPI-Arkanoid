@@ -32,6 +32,9 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="CourseWork.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -46,6 +49,12 @@
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="CourseWork.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="background.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bitmap1.bmp">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
